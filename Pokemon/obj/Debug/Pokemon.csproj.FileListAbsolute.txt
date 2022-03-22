@@ -1,0 +1,37 @@
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.Form2.resources
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.Form3.resources
+C:\Users\2018203120\OneDrive\Visual Studio\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\2018203120\OneDrive\Visual Studio\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\2018203120\OneDrive\Visual Studio\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\2018203120\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\2018203120\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.Form2.resources
+C:\Users\2018203120\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.Form3.resources
+C:\Users\2018203120\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\2018203120\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.Cache
+C:\Users\2018203120\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\2018203120\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\2018203120\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\fernando\OneDrive\Visual Studio\Pokemon\Pokemon\obj\Debug\Pokemon.Form4.resources
+C:\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Pokemon\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Pokemon\Pokemon\obj\Debug\Pokemon.Form2.resources
+C:\Pokemon\Pokemon\obj\Debug\Pokemon.Form3.resources
+C:\Pokemon\Pokemon\obj\Debug\Pokemon.Form4.resources
+C:\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Pokemon\Pokemon\obj\Debug\Pokemon.pdb

@@ -1,0 +1,45 @@
+#5177
+Pikachu
+teddy
+Nv. 01
+6
+0,4
+3
+6,3
+C:\Pokemon\pokemons\Pikachu.png
+#9707
+Charlizard
+jorge
+Nv. 01
+8,5
+0,6
+5
+10,6
+C:\Pokemon\pokemons\Charlizard1.png
+#7131
+Snorlax
+José
+Nv. 01
+460
+2,1
+4
+1018,5
+C:\Pokemon\pokemons\Snorlax.png
+#2907
+Mewtwo
+Astolfo
+Nv. 01
+122
+2
+2
+271,2
+C:\Pokemon\pokemons\Mewtwo.png
+#8413
+Mewtwo
+Jooj
+Nv. 01
+122
+2
+5
+274,6
+C:\Pokemon\pokemons\Mewtwo.png
